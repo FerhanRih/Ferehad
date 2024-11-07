@@ -228,9 +228,11 @@
 
   /* About Me Section Styling */
 #about {
-  background: rgba(34, 34, 34, 0.9); /* Dark background with slight opacity */
+  background: rgba(3, 3, 3, 0.9); /* Dark background with slight opacity */
   color: #f0f0f0;
   padding: 40px 20px;
+  background-image: url(me.png);
+  background-repeat: no-repeat;
   max-width: 800px;
   margin: 40px auto;
   border-radius: 10px;
