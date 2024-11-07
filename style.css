@@ -231,7 +231,7 @@
   background: rgba(3, 3, 3, 0.9); /* Dark background with slight opacity */
   color: #f0f0f0;
   padding: 40px 20px;
-  background-image: url(me.png);
+  background-image: url(logo/me.png);
   background-repeat: no-repeat;
   max-width: 800px;
   margin: 40px auto;
